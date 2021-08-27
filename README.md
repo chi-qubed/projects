@@ -1,6 +1,8 @@
 # projects
-Projects to showcase certain skills:
+Цель данного репозитория - демонстрация базовых навыков работы с:
+* [SQL](sql);
+* [библиотеками Python](python) в области анализа данных;
+* [средой вычислений](rlang) и языком статистической обработки данных R;
+* [утилитами](unix-data-cleaning) командной оболочки Unix-подобных ОС.
 
-Reviews Analysis:
-
-A/B Testing:
+Визуализации, созданные в Tableau Public:
